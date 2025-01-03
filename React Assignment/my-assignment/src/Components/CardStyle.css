@@ -1,0 +1,31 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px; /* Space between cards */
+    justify-content: center; /* Center the cards */
+    align-items: center;
+    text-align: center;
+  }
+  
+  .card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 200px; /* Set a fixed width for the cards */
+    transition: transform 0.2s; /* Smooth transition for hover effect */
+
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Scale up on hover */
+  }
+  
+  .card h3 {
+    margin: 0 0 8px; /* Margin for the title */
+  }
+  
+  .card p {
+    margin: 4px 0; /* Margin for paragraphs */
+  }

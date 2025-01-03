@@ -1,0 +1,304 @@
+{
+    "Users": [
+        {
+                "id": 1,
+                "name": "Jack",
+                "email": "jack1@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 2,
+                "name": "Charlie",
+                "email": "charlie2@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 3,
+                "name": "Oscar",
+                "email": "oscar3@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 4,
+                "name": "Sam",
+                "email": "sam4@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 5,
+                "name": "Jack",
+                "email": "jack5@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 6,
+                "name": "Charlie",
+                "email": "charlie6@example.com",
+                "role": "user"
+            },
+            {
+                "id": 7,
+                "name": "Oscar",
+                "email": "oscar7@example.com",
+                "role": "user"
+            },
+            {
+                "id": 8,
+                "name": "Grace",
+                "email": "grace8@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 9,
+                "name": "Leo",
+                "email": "leo9@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 10,
+                "name": "Nina",
+                "email": "nina10@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 11,
+                "name": "David",
+                "email": "david11@example.com",
+                "role": "user"
+            },
+            {
+                "id": 12,
+                "name": "Uma",
+                "email": "uma12@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 13,
+                "name": "Rachel",
+                "email": "rachel13@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 14,
+                "name": "Paul",
+                "email": "paul14@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 15,
+                "name": "Hannah",
+                "email": "hannah15@example.com",
+                "role": "user"
+            },
+            {
+                "id": 16,
+                "name": "Frank",
+                "email": "frank16@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 17,
+                "name": "Eve",
+                "email": "eve17@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 18,
+                "name": "Tina",
+                "email": "tina18@example.com",
+                "role": "user"
+            },
+            {
+                "id": 19,
+                "name": "Victor",
+                "email": "victor19@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 20,
+                "name": "Wendy",
+                "email": "wendy20@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 21,
+                "name": "Alice",
+                "email": "alice21@example.com",
+                "role": "user"
+            },
+            {
+                "id": 22,
+                "name": "Bob",
+                "email": "bob22@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 23,
+                "name": "Charlie",
+                "email": "charlie23@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 24,
+                "name": "David",
+                "email": "david24@example.com",
+                "role": "user"
+            },
+            {
+                "id": 25,
+                "name": "Eve",
+                "email": "eve25@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 26,
+                "name": "Frank",
+                "email": "frank26@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 27,
+                "name": "Grace",
+                "email": "grace27@example.com",
+                "role": "user"
+            },
+            {
+                "id": 28,
+                "name": "Hannah",
+                "email": "hannah28@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 29,
+                "name": "Oscar",
+                "email": "oscar29@example.com",
+                "role": "user"
+            },
+            {
+                "id": 30,
+                "name": "Eve",
+                "email": "eve30@example.com",
+                "role": "user"
+            },
+            {
+                "id": 31,
+                "name": "Charlie",
+                "email": "charlie31@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 32,
+                "name": "Hannah",
+                "email": "hannah32@example.com",
+                "role": "user"
+            },
+            {
+                "id": 33,
+                "name": "Jack",
+                "email": "jack33@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 34,
+                "name": "Nina",
+                "email": "nina34@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 35,
+                "name": "Eve",
+                "email": "eve35@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 36,
+                "name": "Paul",
+                "email": "paul36@example.com",
+                "role": "user"
+            },
+            {
+                "id": 37,
+                "name": "Rachel",
+                "email": "rachel37@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 38,
+                "name": "Sam",
+                "email": "sam38@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 39,
+                "name": "Tina",
+                "email": "tina39@example.com",
+                "role": "user"
+            },
+            {
+                "id": 40,
+                "name": "Uma",
+                "email": "uma40@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 41,
+                "name": "Victor",
+                "email": "victor41@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 42,
+                "name": "Wendy",
+                "email": "wendy42@example.com",
+                "role": "user"
+            },
+            {
+                "id": 43,
+                "name": "Xander",
+                "email": "xander43@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 44,
+                "name": "Yara",
+                "email": "yara44@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 45,
+                "name": "Zane",
+                "email": "zane45@example.com",
+                "role": "user"
+            },
+            {
+                "id": 46,
+                "name": "Alice",
+                "email": "alice46@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 47,
+                "name": "Bob",
+                "email": "bob47@example.com",
+                "role": "admin"
+            },
+            {
+                "id": 48,
+                "name": "Charlie",
+                "email": "charlie48@example.com",
+                "role": "user"
+            },
+            {
+                "id": 49,
+                "name": "David",
+                "email": "david49@example.com",
+                "role": "guest"
+            },
+            {
+                "id": 50,
+                "name": "Eve",
+                "email": "eve50@example.com",
+                "role": "admin"
+            }
+        ]
+}
