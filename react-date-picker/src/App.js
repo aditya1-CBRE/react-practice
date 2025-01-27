@@ -1,16 +1,15 @@
-import logo from './logo.svg';
+import React from 'react';
+// import Calender from './Components/Calender';
+// import 'react-calendar/dist/Calendar.css'; // Ensure you import the CSS for the Calendar component
 import './App.css';
-import React,{ useState } from 'react';
-import DatePicker from 'react-datepicker';
-import "react-datepicker/dist/react-datepicker.css";
+import ExampleDatePicker from './Components/ExampleDatePicker';
 
 function App() {
-  const [selectedDate, setSelectedDate] = useState(new Date());
   return (
     <div className="App">
-      <header className="App-header">
-        <DatePicker selected={selectedDate} onChange={date => setSelectedDate(date)} />
-      </header>
+      {/* <Calendar /> */}
+      <ExampleDatePicker/>
+      {/* <Calender/> */}
     </div>
   );
 }
